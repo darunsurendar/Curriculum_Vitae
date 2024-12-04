@@ -1,0 +1,35 @@
+body {
+    
+    margin-left: 30%;
+    margin-right: 30%;
+    border: solid black;
+    font-family: sans-serif;
+   
+
+}
+header {
+    border-top: solid black;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+h1 { 
+    
+    font-size: 2lvw;
+    font-weight: lighter;
+    
+}
+h3 {
+    color: rgb(47, 192, 47);
+
+}
+p{
+    
+    margin-bottom: 0%;
+    margin-top: 0%;
+} 
+main{
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 20%;
+} 
