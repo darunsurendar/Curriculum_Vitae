@@ -10,4 +10,4 @@
     * Open HTML File in VS Code.
     * Right-click inside the editor and select **" Open with Live Server "** to see changes as edit.
 ## View in Browser:
-    [Single page CV](https://roadmap.sh/projects/single-page-cv).
+[https://roadmap.sh/projects/single-page-cv] (clik here to preview).
